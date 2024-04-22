@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A7AF745-57A9-4BBD-843D-713B83092CFC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE2AFCA0-6F6F-4EEC-9D41-9E7F0BF9AE05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "tapOnButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF640C4A-D0A2-49CF-8C09-49F56E342876"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18D0B550-2028-4DBD-A1D4-386D2C6247A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "config"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "18D0B550-2028-4DBD-A1D4-386D2C6247A0 - 824575f2ded2903a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "config.deinit in toothscan_demo.ViewController.tapOnButton(Any) -&gt; ()"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "18D0B550-2028-4DBD-A1D4-386D2C6247A0 - b3949f352965bded"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "config.__deallocating_deinit in toothscan_demo.ViewController.tapOnButton(Any) -&gt; ()"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "18D0B550-2028-4DBD-A1D4-386D2C6247A0 - 824575f2ded2903a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "config.deinit in toothscan_demo.ViewController.tapOnButton(Any) -&gt; ()"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7BE6612-7EB3-4E19-A894-F5CCBE66AFE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/toothscan_sdk_iosTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "toothscan_sdk_iosTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E7BE6612-7EB3-4E19-A894-F5CCBE66AFE1 - a6b4ea3d66bedc14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_iosTests.toothscan_sdk_iosTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; toothscan_sdk_iosTests.toothscan_sdk_iosTests"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/toothscan_sdk_iosTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "E7BE6612-7EB3-4E19-A894-F5CCBE66AFE1 - fb6eb5f338823e79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_iosTests.toothscan_sdk_iosTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; toothscan_sdk_iosTests.toothscan_sdk_iosTests"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/toothscan_sdk_iosTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E7BE6612-7EB3-4E19-A894-F5CCBE66AFE1 - 4e88904860339855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_iosTests.toothscan_sdk_iosTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; toothscan_sdk_iosTests.toothscan_sdk_iosTests"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/toothscan_sdk_iosTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "E7BE6612-7EB3-4E19-A894-F5CCBE66AFE1 - 2fb55914bb484315"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_iosTests.toothscan_sdk_iosTests.init(selector: ObjectiveC.Selector) -&gt; toothscan_sdk_iosTests.toothscan_sdk_iosTests"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/toothscan_sdk_iosTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E7BE6612-7EB3-4E19-A894-F5CCBE66AFE1 - 27d52310ac068cde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_iosTests.toothscan_sdk_iosTests.__allocating_init() -&gt; toothscan_sdk_iosTests.toothscan_sdk_iosTests"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/toothscan_sdk_iosTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "E7BE6612-7EB3-4E19-A894-F5CCBE66AFE1 - 721529d2e02fde0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_iosTests.toothscan_sdk_iosTests.init() -&gt; toothscan_sdk_iosTests.toothscan_sdk_iosTests"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "E7BE6612-7EB3-4E19-A894-F5CCBE66AFE1 - d44827bb97339d12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_iosTests.toothscan_sdk_iosTests.__deallocating_deinit"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/toothscan_sdk_iosTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "E7BE6612-7EB3-4E19-A894-F5CCBE66AFE1 - fb6eb5f338823d96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_iosTests.toothscan_sdk_iosTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; toothscan_sdk_iosTests.toothscan_sdk_iosTests"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/toothscan_sdk_iosTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E7BE6612-7EB3-4E19-A894-F5CCBE66AFE1 - 2fb55914bb4840fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_iosTests.toothscan_sdk_iosTests.init(selector: ObjectiveC.Selector) -&gt; toothscan_sdk_iosTests.toothscan_sdk_iosTests"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/toothscan_sdk_iosTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3642F4B3-88AA-4A8C-9A61-B059B0C24DE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/Store/CampaignStoreTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "testFetchAction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "reduce(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - e77ad3f0a441d307"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - 96babb4612f40d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - 416e7bec3e289f05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - 711219ddef624e57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - 9f0361992a0cdd84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - d706b1c1750b0255"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - d706b1c1750b0255"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - d706b1c1750b0255"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - d706b1c1750b0255"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "154">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - e77ad3f0a441d307"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - 96babb4612f40d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - 416e7bec3e289f05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "76E3B250-E0E7-4570-B2E4-39DF677200D6 - 416e7bec3e289f05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for toothscan_sdk_ios.CampaignStore.reduce(from: toothscan_sdk_ios.CampaignStore.Action) async -&gt; Swift.Optional&lt;toothscan_sdk_ios.CampaignStore.Action&gt;"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/UI/Campaign/CampaignStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE759FCB-A1DE-46E7-AB23-C98B879D0178"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/Store/BaseStoreTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "BaseStoreTest"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B15D963-9356-4906-BD59-E53D29C164E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/toothscan_sdk_iosTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "testSwiftUIScreens()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "722D149C-9D00-4DFC-B13A-39B945FC22FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init(config:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "722D149C-9D00-4DFC-B13A-39B945FC22FB - 943fe6d95ccdfab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_ios.ToothScanSdk.init(config: Swift.Optional&lt;toothscan_sdk_ios.IToothScanConfigs&gt;) throws -&gt; toothscan_sdk_ios.ToothScanSdk"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "722D149C-9D00-4DFC-B13A-39B945FC22FB - 943fe6d95ccdfab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_ios.ToothScanSdk.init(config: Swift.Optional&lt;toothscan_sdk_ios.IToothScanConfigs&gt;) throws -&gt; toothscan_sdk_ios.ToothScanSdk"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "722D149C-9D00-4DFC-B13A-39B945FC22FB - 9f2b3440deef42fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_ios.ToothScanSdk.init(config: Swift.Optional&lt;toothscan_sdk_ios.IToothScanConfigs&gt;) throws -&gt; toothscan_sdk_ios.ToothScanSdk"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "800">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E37AAE53-20E8-4944-8925-FF24DC6BFEF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(config:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E37AAE53-20E8-4944-8925-FF24DC6BFEF2 - 943fe6d95ccdf48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_ios.ToothScanSdk.init(config: Swift.Optional&lt;toothscan_sdk_ios.IToothScanConfigs&gt;) throws -&gt; toothscan_sdk_ios.ToothScanSdk"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "984">
+               </Location>
+               <Location
+                  uuid = "E37AAE53-20E8-4944-8925-FF24DC6BFEF2 - 943fe6d95ccdf48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_ios.ToothScanSdk.init(config: Swift.Optional&lt;toothscan_sdk_ios.IToothScanConfigs&gt;) throws -&gt; toothscan_sdk_ios.ToothScanSdk"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "939">
+               </Location>
+               <Location
+                  uuid = "E37AAE53-20E8-4944-8925-FF24DC6BFEF2 - 9f2b3440deef4218"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_ios.ToothScanSdk.init(config: Swift.Optional&lt;toothscan_sdk_ios.IToothScanConfigs&gt;) throws -&gt; toothscan_sdk_ios.ToothScanSdk"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "836">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFA8526D-3614-4732-BD23-CE3209B5F71E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/Store/CampaignStoreTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D60E653-6940-4205-B421-3D40F655520B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/Theme/ThemeTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "testDefaultTheme()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "856BFC47-85EE-4B1E-B6B8-1855816C1858"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(config:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "856BFC47-85EE-4B1E-B6B8-1855816C1858 - 943fe6d95ccdf69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_ios.ToothScanSdk.init(config: Swift.Optional&lt;toothscan_sdk_ios.IToothScanConfigs&gt;) throws -&gt; toothscan_sdk_ios.ToothScanSdk"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "770">
+               </Location>
+               <Location
+                  uuid = "856BFC47-85EE-4B1E-B6B8-1855816C1858 - 943fe6d95ccdf69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_ios.ToothScanSdk.init(config: Swift.Optional&lt;toothscan_sdk_ios.IToothScanConfigs&gt;) throws -&gt; toothscan_sdk_ios.ToothScanSdk"
+                  moduleName = "toothscan-sdk-iosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "766">
+               </Location>
+               <Location
+                  uuid = "856BFC47-85EE-4B1E-B6B8-1855816C1858 - 9f2b3440deef4239"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toothscan_sdk_ios.ToothScanSdk.init(config: Swift.Optional&lt;toothscan_sdk_ios.IToothScanConfigs&gt;) throws -&gt; toothscan_sdk_ios.ToothScanSdk"
+                  moduleName = "toothscan-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivamrawat/Developer/toothscan-demo/toothscan-demo/toothscan-sdk-ios/Sources/toothscan-sdk-ios/ToothScanSdk.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBF835F6-1680-4B4F-B266-4C3CEC42092D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toothscan-demo/toothscan-sdk-ios/Tests/toothscan-sdk-iosTests/Store/CampaignStoreTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
